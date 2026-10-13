@@ -1,0 +1,12 @@
+streamlit>=1.40
+pandas>=2.1
+numpy>=1.26
+plotly>=5.20
+matplotlib>=3.8
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.45
+scipy>=1.11
+# optional: server-side PNG/SVG export of Plotly figures (needs a Chrome/Chromium browser)
+kaleido>=0.2
+pytest>=8.0
